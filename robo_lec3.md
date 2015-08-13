@@ -31,13 +31,13 @@
 ---
 
 <section>![hist1](screenshots/hist1.png)<section/>
-<h2><span style="color:rgb(220,54,54);">Live histogram </span> from video</h2>
+<h2><span style="color:rgb(220,54,54);">Live histogram </span> from camera</h2>
 
 
 ---
 
 <section>![hist1](screenshots/hist2.png)<section/>
-<h2><span style="color:rgb(220,54,54);">Live histogram </span> from video</h2>
+<h2><span style="color:rgb(220,54,54);">Live histogram </span> from camera</h2>
 
 ---
 
@@ -218,12 +218,12 @@ def posterisation(img):
 ---
 
 <h2><span style="color:rgb(220,54,54)">Matrix</span> Operations</h2>
-<section>![image](screenshots/matrix2.png)</section>
+<section>![matrix2](screenshots/matrix2.png)</section>
 
 ---
 
 <h2><span style="color:rgb(220,54,54)">Matrix</span> Operations</h2>
-<section>![image](screenshots/matrixop.png)</section>
+<section>![matrixop](screenshots/matrixop.png)</section>
 
 ---
 
@@ -247,11 +247,26 @@ def posterisation(img):
 ---
 
 <h2><span style="color:rgb(220,54,54)">diadic</span> operation</h2>
-![image](screenshots/t1.png)
+![imaget1](screenshots/t1.png)
 <ul>
 <li> Each output pixel is a function of corresponding input pixel.</li>
 <li> The function is <span style="color:rgb(220,54,54)">the same</span> for all pixels.</li>
 </ul>
+
+---
+
+<h2><span style="color:rgb(220,54,54)">diadic</span> image processing</h2>
+<ul>
+<li><span style="color:rgb(220,54,54)">What is f(x,y)?</span>
+<ul>
+<li class="fragment">Arithmatic
+<ul>
+<li class="fragment"> x+y </li>
+<li class="fragment"> x-y </li>
+<li class="fragment"> x*y </li>
+<li class="fragment"> etc.</li></li>
+</ul></li></ul>
+
 
 ---
 
@@ -261,31 +276,30 @@ def posterisation(img):
 ---
 
 <h2><span style="color:rgb(220,54,54)">green screen</span> effects</h2>
-![image](screenshots/s3.png)
+![images3](screenshots/s3.png)
 
 ---
 
 <h2><span style="color:rgb(220,54,54)">green screen</span> effects</h2>
-![image](screenshots/s5.png)
+![images5](screenshots/s5.png)
 
 ---
 
 <h2><span style="color:rgb(220,54,54)">green screen</span> effects</h2>
-![image](screenshots/s6.png)
+![images6](screenshots/s6.png)
 
 ---
 
 <h2><span style="color:rgb(220,54,54)">green screen</span> effects</h2>
-![image](screenshots/s7.png)
+![images7](screenshots/s7.png)
 
 ---
 
 <h2><span style="color:rgb(220,54,54)">green screen</span> effects</h2>
-![image](screenshots/s8.png)
+![images8](screenshots/s8.png)
 
 ---
 
 <h2><span style="color:rgb(220,54,54)">green screen</span> effects</h2>
-![image](screenshots/s9.png)
-
+![images10](screenshots/s10.png)
 
