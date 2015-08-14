@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/theme/beige.css" id="theme">
+<link rel="stylesheet" href="beige.css" id="theme">
 
 
 ![image](screenshots/lec3.gif)
