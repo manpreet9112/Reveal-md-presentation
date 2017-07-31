@@ -1,0 +1,144 @@
+##Project
+####on
+<h2  style="color:rgb(220,54,54);">"LibreHatti" </h2>
+<span style="font-size:22px;">( At Testing and Consultency Cell, GNDEC Ludhiana.)</span><br/>
+<span style="font-size:22px;">( Under the guidence of Dr. H.S Rai.)</span>
+<h5  style="color:rgb(220,54,54);">By: </h5>
+Monisha:1311518<br/>
+Manpreet kaur: 1311515<br/>
+Harmanjot Singh :1311507<br/>
+
+---
+
+<h3  style="color:rgb(220,54,54);">Profile of Company </h3>
+We had our Six Months Insdustrial Training at Testing And Consultancy Cell, GNDEC Ludhiana
+under the guidance of Dr. H.S.Rai (Dean Testing & Consultancy Cell).Testing and Consultancy Cell was established in the year 1979 with a basic aim to produce quality
+service for technical problems at reasonable and affordable rates as a service to society in general
+and Engineering fraternity in particular.
+
+----
+
+![image](pptimages/tcc.png)
+
+---
+
+<h3  style="color:rgb(246,28,28);">Contents</h3>
+<ul>
+<li>Profile of company.</li>
+<li>Abstract </li>
+<li>Data Flow Diagrams. </li>
+<li>Technology Used.</li>
+<li>Implementation. </li>
+<li>Screenshot. </li>
+<li>Future Scope.</li>
+<li>Other Projects.</li>
+<ul>
+<li>Poll App.</li>
+<li>DesignAids.</li>
+<li>Waste Management.</li>
+</ul>
+</ul>
+
+---
+
+<h3><span  style="color:rgb(220,54,54);">Abstract </span> </h3>
+LibreHatti is a Automation.It makes the manual work easily. Automation is all about using the computer to:
+<ul>
+<li  class="fragment">Make your work less tedious </li>
+<li class="fragment"> Trim hours of workload</li>
+<li class="fragment">Make data entry easier</li>
+</ul>
+
+
+---
+
+<h3><span  style="color:rgb(220,54,54);">Data flow Diagrams</span>  </h3>
+level 0:
+![image](pptimages/level0.png)
+
+----
+
+<span  style="color:rgb(220,54,54);">level 1:</span>  </h3>
+![image](pptimages/level1.png)
+
+---
+
+ <h3><span  style="color:rgb(220,54,54);">Technology used</span>  </h3>
+<ul>
+<li  class="fragment">Django </li>
+<li class="fragment">MySql</li>
+</ul>
+
+---
+
+<h3><span  style="color:rgb(220,54,54);">implementation</span>  </h3>
+![image](pptimages/mvc.png)
+
+---
+
+<h3><span  style="color:rgb(220,54,54);">Screenshots</span>  </h3>
+This is the login page and the first to be displayed if a user has not logged in. Initially only the
+superuser or admin has the permission to login into the application.
+![image](pptimages/login.png)
+
+----
+
+<h4><span  style="color:rgb(220,54,54);">home page</span></h4>
+![image](pptimages/homepage.png)
+
+----
+
+<h3><span  style="color:rgb(220,54,54);">add customer</span></h3>
+![image](pptimages/newcustomer.png)
+
+----
+
+<h3><span  style="color:rgb(220,54,54);">admin panel</span></h3>
+![image](pptimages/adminpanel.png)
+
+---
+
+<h3><span  style="color:rgb(220,54,54);">Testing</span></h3>
+Testing is vital to the success of the system. Testing makes a logical assumption that if all parts
+of the system are correct, the goal will be successfully achieved.There are three categories of performance test cases commonly used:
+<ul>
+ <li  class="fragment"><span  style="color:rgb(220,54,54);">Response Time or Throughput:</span> Verifies the time for a set of specified actions. </li>
+ <li class="fragment"><span  style="color:rgb(220,54,54);"> Scalability:</span> Verifies the capacity of a specified system or component.</li>
+ <li class="fragment"><span  style="color:rgb(220,54,54);">Reliability:</span> Verifies the duration for which a system or component can be run without the
+need for restarting.</li>
+ </ul>
+
+----
+
+![image](pptimages/issues.png)
+
+----
+
+![image](pptimages/contri.png)
+
+---
+
+<h3><span  style="color:rgb(220,54,54);">Future Scope/Enhancement</span></h3>
+<ul>
+<li class="fragment">Parallel login for multiple user. </li>
+ <li class="fragment">Email and Mobile Notification of Successful delivery. </li>
+ <li class="fragment">Adding payment gateway. </li>
+ <li class="fragment">Different Themes Selection. </li>
+</ul>
+
+---
+
+<h3><span  style="color:rgb(220,54,54);">Introduction to </span>Poll App</h3    >
+Poll App is a Voting App Which is created in Django. It is a simple voting App. It is divided into
+two parts one is Admin panel and another is User panel.
+![image](pptimages/poll.png)
+
+---
+
+<h3><span  style="color:rgb(220,54,54);">Waste</span> Management</h3>
+![image](pptimages/ewaste.png)
+
+---
+
+<h1><span  style="color:rgb(220,54,54);">Thank you</h1>
+
