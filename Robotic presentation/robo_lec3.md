@@ -11,7 +11,6 @@
 
 <section data-background="screenshots/m3.png"></section>
 
-
 ---
 
 <section data-background="screenshots/m4.png"></section>
@@ -30,16 +29,15 @@
 
 ---
 
-<section>![hist1](screenshots/hist1.png)<section/>
-<h2><span style="color:rgb(220,54,54);">Live histogram </span> from camera</h2>
-
+#some slides here
 
 ---
 
-<section>![hist1](screenshots/hist2.png)<section/>
-<h2><span style="color:rgb(220,54,54);">Live histogram </span> from camera</h2>
+<section data-background="screenshots/m10.png"></section>
+<span style="background-color:rgb(1,1,1);display:block;opacity:0.6;color:white">Its a grey color image.</span>
 
 ---
+
 
 #Monadic Operations
 
@@ -55,13 +53,14 @@
 ---
 
 <h2 style="text-align:left;"><span style="color:rgb(220,54,54);">Monadic</span> image processing </h2>
-<section>![image2](screenshots/image2.png)</section>
+<section>![image](screenshots/image2.png)</section>
 
 ---
 
 <h2 style="text-align:left;"><span style="color:rgb(220,54,54);">Monadic</span> image processing </h2>
 <section>![image](screenshots/image.png)</section>
 
+<section>![image](screenshots/image.png)</section>
 
 ---
 
@@ -146,7 +145,7 @@ def negative(img):
 ---
 
 <h2><span style="color:rgb(220,54,54)">Posterisation</span></h2>
-![posterisation](screenshots/posterisation.png)
+![bright](screenshots/posterization.png)
 
 ---
 
@@ -154,10 +153,9 @@ def negative(img):
 
 ```
 #posterisation image
-import math
 def posterisation(img):
 	n=int(input('posterisation level'))
-	imgB=n*math.floor(img/n)
+	imgB=n*floor(img/n)
 	imgB=imgB.astype('uint8')
 	return imgB
 
@@ -213,17 +211,26 @@ def posterisation(img):
 
 ---
 
+<h2><span style="color:rgb(220,54,54)">monadic</span> function</h2>
+
+---
+
+
 #Vectorisation
 
 ---
 
-<h2><span style="color:rgb(220,54,54)">Matrix</span> Operations</h2>
-<section>![matrix2](screenshots/matrix2.png)</section>
+<h2><span style="color:rgb(220,54,54)">Matrix</span> Operation</h2>
+<section>![image](screenshots/r2.png)</section>
 
 ---
 
-<h2><span style="color:rgb(220,54,54)">Matrix</span> Operations</h2>
-<section>![matrixop](screenshots/matrixop.png)</section>
+<h2><span style="color:rgb(220,54,54)">Matrix</span> Operation</h2>
+<section>![image](screenshots/r3.png)</section>
+
+---
+
+##2 slides here
 
 ---
 
@@ -238,7 +245,8 @@ def posterisation(img):
 <li class="fragment">false (black) if x<T</li>
 <li class="fragment">true (white) if x>=T </li>
 </ul></li></ul>
-<img style="border:none;" src="screenshots/thresholding.png"/>
+<img style="border:none;" src="screenshots/thresh.gif"/>
+
 
 ---
 
@@ -247,7 +255,7 @@ def posterisation(img):
 ---
 
 <h2><span style="color:rgb(220,54,54)">diadic</span> operation</h2>
-![imaget1](screenshots/t1.png)
+![image](screenshots/t1.png)
 <ul>
 <li> Each output pixel is a function of corresponding input pixel.</li>
 <li> The function is <span style="color:rgb(220,54,54)">the same</span> for all pixels.</li>
@@ -255,51 +263,30 @@ def posterisation(img):
 
 ---
 
-<h2><span style="color:rgb(220,54,54)">diadic</span> image processing</h2>
-<ul>
-<li><span style="color:rgb(220,54,54)">What is f(x,y)?</span>
-<ul>
-<li class="fragment">Arithmatic
-<ul>
-<li class="fragment"> x+y </li>
-<li class="fragment"> x-y </li>
-<li class="fragment"> x*y </li>
-<li class="fragment"> etc.</li></li>
-</ul></li></ul>
-
+<section data-background="screenshots/t2.png"></section>
 
 ---
 
-<h2><span style="color:rgb(220,54,54)">green screen</span> effects</h2>
-![image](screenshots/s2.png)
+<section data-background="screenshots/u6.png"></section>
 
 ---
 
-<h2><span style="color:rgb(220,54,54)">green screen</span> effects</h2>
-![images3](screenshots/s3.png)
+<section data-background="screenshots/u7.png"></section>
 
 ---
 
-<h2><span style="color:rgb(220,54,54)">green screen</span> effects</h2>
-![images5](screenshots/s5.png)
+<section data-background="screenshots/v1.png"></section>
 
 ---
 
-<h2><span style="color:rgb(220,54,54)">green screen</span> effects</h2>
-![images6](screenshots/s6.png)
+<section data-background="screenshots/v2.png"></section>
 
 ---
 
-<h2><span style="color:rgb(220,54,54)">green screen</span> effects</h2>
-![images7](screenshots/s7.png)
+<section data-background="screenshots/v3.png"></section>
 
 ---
 
-<h2><span style="color:rgb(220,54,54)">green screen</span> effects</h2>
-![images8](screenshots/s8.png)
+<section data-background="screenshots/v4.png"></section>
 
----
-
-<h2><span style="color:rgb(220,54,54)">green screen</span> effects</h2>
-![images10](screenshots/s10.png)
 
